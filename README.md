@@ -3,7 +3,7 @@
 <p>Hello World</p>
  -->
  
-  <h1 align="left">Deepanshu</h1>
+  <h1 align="left">Sachin Kumar</h1>
 <p align="center">
   <a href="https://github.com/DeepanshuPayal123">
     <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Hi,+I'm+Deepanshu;CSE+Student+at+IIT+Jodhpur;AI+%26+NLP+Enthusiast" alt="Typing Animation" />
@@ -11,7 +11,7 @@
 </p>
 </div>
 
-![snake gif](https://raw.githubusercontent.com/DeepanshuPayal123/DeepanshuPayal123/output/github-snake-dark.svg)
+![snake gif](https://raw.githubusercontent.com/Sachinkumartandon/Sachinkumartandon/output/github-snake-dark.svg)
 
 
 
