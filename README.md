@@ -1,7 +1,7 @@
 <h1 align="left">Sachin Kumar</h1>
 <p align="center">
   <a href="https://github.com/Sachinkumartandon">
-    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sachin;AI+%26+Data+Science+@+IIT+Jodhpur;Deep+Learning+%7C+NLP+%7C+Computer+Vision" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=35&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Hi,+I'm+Sachin;AI+%26+Data+Science+@+IIT+Jodhpur;Deep+Learning+%7C+Computer+Vision" alt="Typing Animation" />
   </a>
 </p>
 
@@ -83,13 +83,10 @@ I've also worked as a **Data Strategy and AI Training Specialist** at Metafusion
 
 ---
 
-## 📋 Positions of Responsibility
-
-- **Head Coordinator, Marketing** — Ignus 2026, IIT Jodhpur *(February 2025)*
-- **Assistant Head Coordinator, Public Relations** — Prometeo 2025, IIT Jodhpur *(December 2024 – January 2025)*
-
----
-
 ## 📚 Key Courses
 
 `Data Structures` `Algorithms` `Database Management Systems` `Machine Learning` `Artificial Intelligence` `Web Services` `Operating Systems`
+
+---
+
+[![Sachin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sachinkumartandon&bg_color=1a1b27&color=c194f5&line=75aaff&point=3bc4b4&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
